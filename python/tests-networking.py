@@ -1,4 +1,4 @@
-from convert import *
+from convert import CidrMaskConvert, IpValidate
 import unittest
 class TestStringMethods(unittest.TestCase):
     def setUp(self):
